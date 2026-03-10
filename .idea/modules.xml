@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Advanced-Programming-A2.iml" filepath="$PROJECT_DIR$/.idea/Advanced-Programming-A2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GradeConverter/GradeConverter.iml" filepath="$PROJECT_DIR$/GradeConverter/GradeConverter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RandomOddNum/RandomOddNum.iml" filepath="$PROJECT_DIR$/RandomOddNum/RandomOddNum.iml" />
+    </modules>
+  </component>
+</project>
