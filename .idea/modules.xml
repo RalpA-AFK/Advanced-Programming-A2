@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Advanced-Programming-A2.iml" filepath="$PROJECT_DIR$/.idea/Advanced-Programming-A2.iml" />
       <module fileurl="file://$PROJECT_DIR$/GradeConverter/GradeConverter.iml" filepath="$PROJECT_DIR$/GradeConverter/GradeConverter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PrimeCatcher/PrimeCatcher.iml" filepath="$PROJECT_DIR$/PrimeCatcher/PrimeCatcher.iml" />
       <module fileurl="file://$PROJECT_DIR$/RandomOddNum/RandomOddNum.iml" filepath="$PROJECT_DIR$/RandomOddNum/RandomOddNum.iml" />
     </modules>
   </component>
